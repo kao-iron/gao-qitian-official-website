@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kao-iron.github.io/gao-qitian-official-website/sitemap.xml
